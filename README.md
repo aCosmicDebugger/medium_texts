@@ -13,3 +13,13 @@ This repository contains the code snippets and examples used in articles publish
    ├── A regressão linear e sua aplicação na medição da expansão cósmica.ipynb
    ├── HubbleDados.csv
    └── README.md
+
+
+
+## Usage
+
+Clone the repository to your local machine using the following command:
+   ```bash
+      git clone https://github.com/your-username/medium-codes-repository.git
+   ```
+   
