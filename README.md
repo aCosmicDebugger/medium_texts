@@ -14,7 +14,7 @@ This repository contains the code snippets and examples used in articles publish
    ├── HubbleDados.csv
    └── README.md
 
-2. **[Using querySDSS to get SDSS data realease](https://medium.com/@acosmicdebugger/usando-querysdss-para-obter-dados-do-sloan-digital-sky-survey-e-classificar-os-objetos-através-00e716707324)**
+2. **[Using querySDSS to get SDSS data realease](https://medium.com/@acosmicdebugger/usando-querysdss-para-obter-dados-do-sloan-digital-sky-survey-e-classificar-os-objetos-através-00e716707324)** 
    -In this notebook we want to test our capabilities in using classification algorithms to distinguish between
 Galaxies and Quasars from the dataset. We’re going to use python package querySDSS which makes a
 specific SQL query to SDSS DR18 and returns a SQL table.
