@@ -26,6 +26,16 @@ specific SQL query to SDSS DR18 and returns a SQL table.
    ├── AUsing querySDSS to get SDSS data realease.ipynb
    └── README.md
 
+3. **[Inferência Bayesiana e técnicas de Sampling](https://medium.com/@acosmicdebugger/infer%C3%AAncia-bayesiana-e-t%C3%A9cnicas-de-sampling-b583005b9398)**
+    
+      - Neste texto eu falo um pouco sobre o poder da inferência bayesiana e ilustro tanto a forma analítica de obter uma posterior, quando obter a distribuição através de técnicas de amostragem.
+   - Folder: `Inferência_bayesiana_e_Sampling/`
+
+   ```plaintext
+   Inferência_bayesiana_e_Sampling/
+   ├── Implementação_de_técnicas_numéricas_de_sampling.ipynb
+   └── Accept-Reject_v2.gif
+
 
 
 ## Usage
